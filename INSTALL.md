@@ -1,4 +1,4 @@
-# Install / 安装 — Aruhan v2.1.28 (International edition / 国际版)
+# Install / 安装 — Aruhan v2.1.30 (International edition / 国际版)
 
 ## Windows
 
