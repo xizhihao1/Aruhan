@@ -246,10 +246,16 @@ the missing signature, not malware.
 
 ## Licensing and commercial use
 
-Aruhan is **free for personal, non-commercial use**. Commercial use — including
-use by a company or team, production deployment, private or on-premises
-deployment, embedding Aruhan in a product or service, custom development, or a
-source-code / perpetual buyout — requires a separate written commercial license.
+Official release builds include a **30-day evaluation period**, counted from
+the first run on the machine (not the download or install time). The first-run
+record is encrypted with a machine-bound key and anchored; deleting it alone
+makes Aruhan refuse to start instead of resetting the trial. After the
+evaluation period, continued use requires a written license.
+
+Commercial use — including use by a company or team, production deployment,
+private or on-premises deployment, embedding Aruhan in a product or service,
+custom development, or a source-code / perpetual buyout — requires a separate
+written license.
 
 We keep those terms practical:
 
@@ -318,31 +324,31 @@ not legal advice; obtain local counsel for your jurisdiction.
 <details>
 <summary><strong>Show all 27 assets</strong></summary>
 
-- **darwin/aruhan-darwin-amd64-2.1.30-intl.tar.gz** — 43,149,295 bytes
-- **darwin/aruhan-darwin-arm64-2.1.30-intl.tar.gz** — 40,841,116 bytes
-- **darwin/factory-darwin-amd64-2.1.30-intl.tar.gz** — 44,966,320 bytes
-- **darwin/factory-darwin-arm64-2.1.30-intl.tar.gz** — 42,394,846 bytes
-- **linux/aruhan-linux-amd64-2.1.30-intl.tar.gz** — 42,486,935 bytes
-- **linux/aruhan-linux-arm64-2.1.30-intl.tar.gz** — 39,368,429 bytes
-- **linux/factory-linux-amd64-2.1.30-intl.tar.gz** — 44,288,512 bytes
-- **linux/factory-linux-arm64-2.1.30-intl.tar.gz** — 40,913,749 bytes
-- **vscode/aruhan-vscode-intl.vsix** — 88,049,821 bytes
-- **windows/Aruhan-CLI-Setup-2.1.30-intl.exe** — 21,845,316 bytes
-- **windows/aruhan-desktop-arm64-intl.exe** — 38,301,696 bytes
-- **windows/aruhan-desktop-intl.exe** — 44,044,288 bytes
-- **windows/Aruhan-Desktop-Setup-2.1.30-intl.exe** — 33,469,853 bytes
-- **windows/aruhan-desktop-windows-amd64-2.1.30-intl.zip** — 15,545,682 bytes
-- **windows/aruhan-desktop-windows-arm64-2.1.30-intl.zip** — 13,071,207 bytes
-- **windows/aruhan-intl.exe** — 72,709,632 bytes
-- **windows/Aruhan-Setup-2.1.30-intl.exe** — 33,470,443 bytes
-- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,289,024 bytes
-- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,347,712 bytes
-- **windows/aruhan-windows-amd64-2.1.30-intl.zip** — 28,983,445 bytes
-- **windows/aruhan-windows-amd64-intl.exe** — 72,709,632 bytes
-- **windows/aruhan-windows-arm64-2.1.30-intl.zip** — 26,715,977 bytes
-- **windows/aruhan-windows-arm64-intl.exe** — 67,966,464 bytes
+- **darwin/aruhan-darwin-amd64-2.1.30-intl.tar.gz** — 43,150,912 bytes
+- **darwin/aruhan-darwin-arm64-2.1.30-intl.tar.gz** — 40,843,951 bytes
+- **darwin/factory-darwin-amd64-2.1.30-intl.tar.gz** — 44,966,791 bytes
+- **darwin/factory-darwin-arm64-2.1.30-intl.tar.gz** — 42,396,245 bytes
+- **linux/aruhan-linux-amd64-2.1.30-intl.tar.gz** — 42,487,722 bytes
+- **linux/aruhan-linux-arm64-2.1.30-intl.tar.gz** — 39,369,078 bytes
+- **linux/factory-linux-amd64-2.1.30-intl.tar.gz** — 44,288,628 bytes
+- **linux/factory-linux-arm64-2.1.30-intl.tar.gz** — 40,914,048 bytes
+- **vscode/aruhan-vscode-intl.vsix** — 88,052,534 bytes
+- **windows/Aruhan-CLI-Setup-2.1.30-intl.exe** — 21,846,820 bytes
+- **windows/aruhan-desktop-arm64-intl.exe** — 38,302,720 bytes
+- **windows/aruhan-desktop-intl.exe** — 44,045,824 bytes
+- **windows/Aruhan-Desktop-Setup-2.1.30-intl.exe** — 33,448,376 bytes
+- **windows/aruhan-desktop-windows-amd64-2.1.30-intl.zip** — 15,546,118 bytes
+- **windows/aruhan-desktop-windows-arm64-2.1.30-intl.zip** — 13,071,600 bytes
+- **windows/aruhan-intl.exe** — 72,711,168 bytes
+- **windows/Aruhan-Setup-2.1.30-intl.exe** — 33,471,589 bytes
+- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,290,560 bytes
+- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,349,248 bytes
+- **windows/aruhan-windows-amd64-2.1.30-intl.zip** — 28,984,129 bytes
+- **windows/aruhan-windows-amd64-intl.exe** — 72,711,168 bytes
+- **windows/aruhan-windows-arm64-2.1.30-intl.zip** — 26,716,118 bytes
+- **windows/aruhan-windows-arm64-intl.exe** — 67,968,000 bytes
 - **windows/factory-intl.exe** — 40,834,560 bytes
-- **windows/Factory-Setup-2.1.30-intl.exe** — 33,996,842 bytes
+- **windows/Factory-Setup-2.1.30-intl.exe** — 33,997,216 bytes
 - **windows/factory-windows-amd64-intl.exe** — 40,834,560 bytes
 - **windows/factory-windows-arm64-intl.exe** — 37,615,616 bytes
 
