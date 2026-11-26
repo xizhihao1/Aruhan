@@ -173,7 +173,7 @@ provider fallback.
 | Windows portable | the matching **aruhan-windows-*-2.1.30-intl.zip** |
 | Linux CLI / Factory | **aruhan-linux-*.tar.gz**, **factory-linux-*.tar.gz** |
 | macOS CLI / Factory | **aruhan-darwin-*.tar.gz**, **factory-darwin-*.tar.gz** |
-| Linux / macOS desktop | the matching **aruhan-desktop-*--intl** binary |
+| Linux / macOS desktop | the matching **aruhan-desktop-*-intl** binary |
 | VS Code | **aruhan-vscode-intl.vsix** |
 
 See [INSTALL.md](INSTALL.md) for step-by-step instructions, including PATH,
