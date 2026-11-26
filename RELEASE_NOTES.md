@@ -10,31 +10,31 @@ one configuration directory. This release contains compiled artifacts only.
 
 | Asset | Bytes |
 |---|---|
-| **darwin/aruhan-darwin-amd64-2.1.30-intl.tar.gz** | 43149295 |
-| **darwin/aruhan-darwin-arm64-2.1.30-intl.tar.gz** | 40841116 |
-| **darwin/factory-darwin-amd64-2.1.30-intl.tar.gz** | 44966320 |
-| **darwin/factory-darwin-arm64-2.1.30-intl.tar.gz** | 42394846 |
-| **linux/aruhan-linux-amd64-2.1.30-intl.tar.gz** | 42486935 |
-| **linux/aruhan-linux-arm64-2.1.30-intl.tar.gz** | 39368429 |
-| **linux/factory-linux-amd64-2.1.30-intl.tar.gz** | 44288512 |
-| **linux/factory-linux-arm64-2.1.30-intl.tar.gz** | 40913749 |
-| **vscode/aruhan-vscode-intl.vsix** | 88049821 |
-| **windows/Aruhan-CLI-Setup-2.1.30-intl.exe** | 21845316 |
-| **windows/aruhan-desktop-arm64-intl.exe** | 38301696 |
-| **windows/aruhan-desktop-intl.exe** | 44044288 |
-| **windows/Aruhan-Desktop-Setup-2.1.30-intl.exe** | 33469853 |
-| **windows/aruhan-desktop-windows-amd64-2.1.30-intl.zip** | 15545682 |
-| **windows/aruhan-desktop-windows-arm64-2.1.30-intl.zip** | 13071207 |
-| **windows/aruhan-intl.exe** | 72709632 |
-| **windows/Aruhan-Setup-2.1.30-intl.exe** | 33470443 |
-| **windows/aruhan-tui-installer-windows-amd64-intl.exe** | 76289024 |
-| **windows/aruhan-tui-installer-windows-arm64-intl.exe** | 71347712 |
-| **windows/aruhan-windows-amd64-2.1.30-intl.zip** | 28983445 |
-| **windows/aruhan-windows-amd64-intl.exe** | 72709632 |
-| **windows/aruhan-windows-arm64-2.1.30-intl.zip** | 26715977 |
-| **windows/aruhan-windows-arm64-intl.exe** | 67966464 |
+| **darwin/aruhan-darwin-amd64-2.1.30-intl.tar.gz** | 43150912 |
+| **darwin/aruhan-darwin-arm64-2.1.30-intl.tar.gz** | 40843951 |
+| **darwin/factory-darwin-amd64-2.1.30-intl.tar.gz** | 44966791 |
+| **darwin/factory-darwin-arm64-2.1.30-intl.tar.gz** | 42396245 |
+| **linux/aruhan-linux-amd64-2.1.30-intl.tar.gz** | 42487722 |
+| **linux/aruhan-linux-arm64-2.1.30-intl.tar.gz** | 39369078 |
+| **linux/factory-linux-amd64-2.1.30-intl.tar.gz** | 44288628 |
+| **linux/factory-linux-arm64-2.1.30-intl.tar.gz** | 40914048 |
+| **vscode/aruhan-vscode-intl.vsix** | 88052534 |
+| **windows/Aruhan-CLI-Setup-2.1.30-intl.exe** | 21846820 |
+| **windows/aruhan-desktop-arm64-intl.exe** | 38302720 |
+| **windows/aruhan-desktop-intl.exe** | 44045824 |
+| **windows/Aruhan-Desktop-Setup-2.1.30-intl.exe** | 33448376 |
+| **windows/aruhan-desktop-windows-amd64-2.1.30-intl.zip** | 15546118 |
+| **windows/aruhan-desktop-windows-arm64-2.1.30-intl.zip** | 13071600 |
+| **windows/aruhan-intl.exe** | 72711168 |
+| **windows/Aruhan-Setup-2.1.30-intl.exe** | 33471589 |
+| **windows/aruhan-tui-installer-windows-amd64-intl.exe** | 76290560 |
+| **windows/aruhan-tui-installer-windows-arm64-intl.exe** | 71349248 |
+| **windows/aruhan-windows-amd64-2.1.30-intl.zip** | 28984129 |
+| **windows/aruhan-windows-amd64-intl.exe** | 72711168 |
+| **windows/aruhan-windows-arm64-2.1.30-intl.zip** | 26716118 |
+| **windows/aruhan-windows-arm64-intl.exe** | 67968000 |
 | **windows/factory-intl.exe** | 40834560 |
-| **windows/Factory-Setup-2.1.30-intl.exe** | 33996842 |
+| **windows/Factory-Setup-2.1.30-intl.exe** | 33997216 |
 | **windows/factory-windows-amd64-intl.exe** | 40834560 |
 | **windows/factory-windows-arm64-intl.exe** | 37615616 |
 
@@ -52,12 +52,17 @@ remain responsible for local compliance.
 
 ## Licensing / 授权
 
-Personal, non-commercial use is free. Commercial use, private/on-premises
-deployment, custom development, and source-code or perpetual buyout require a
-separate written license. Contact **37735973@qq.com**.
+Official release builds include a 30-day evaluation period from the first run.
+The first-run record is encrypted with a machine-bound key and anchored; deleting
+it alone blocks startup. Continued use after the evaluation period,
+commercial use, private/on-premises deployment, custom development, and
+source-code or perpetual buyout require a separate written license.
+Contact **37735973@qq.com**.
 
-个人非商业使用免费。商业使用、私有化/本地部署、定制开发以及源码或永久买断，
-需要另行签署书面授权。联系 **37735973@qq.com**。
+官方发布包包含从首次运行起算的 30 天评估期。首次运行记录使用机器绑定密钥加密
+并保存锚点；只删除该记录会阻止启动。评估期结束后继续使用、商业使用、
+私有化/本地部署、定制开发以及源码或永久买断，需要另行签署书面授权。
+联系 **37735973@qq.com**。
 
 See [LICENSE](LICENSE) and [DISCLAIMER.md](DISCLAIMER.md). Source code is not
 published in this repository.
