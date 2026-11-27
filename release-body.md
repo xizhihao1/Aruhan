@@ -1,6 +1,28 @@
 # Aruhan v2.1.33
 
-**Release date / 发布日期：2026-11-27** · [INTL checksums / 国际版校验和](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/SHA256SUMS) · [English](#english) · [中文](#中文)
+**Release date / 发布日期：2026-11-27** · [INTL checksums / 国际版校验和](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/SHA256SUMS) · 中文（文末点击展开 / collapsed at the end）
+
+**⬇ [立即下载 / Download now](https://github.com/xizhihao1/Aruhan/releases)** —
+[Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe) · [macOS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-amd64-intl) · [Linux](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-amd64-2.1.33-intl.tar.gz) ·
+[全部资产 / all assets](https://github.com/xizhihao1/Aruhan/releases)
+
+## Download / 下载
+
+| Platform | Package | Download |
+|---|---|---|
+| Windows | Bundle: CLI + desktop + Factory | [Aruhan bundle installer](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe) |
+| Windows | Separate installers | [CLI](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-CLI-Setup-2.1.33-intl.exe) · [Desktop](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Desktop-Setup-2.1.33-intl.exe) · [Factory](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Factory-Setup-2.1.33-intl.exe) |
+| Windows | Portable ZIP | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-windows-amd64-2.1.33-intl.zip) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-windows-arm64-2.1.33-intl.zip) |
+| Windows arm64 | TUI installer | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-tui-installer-windows-amd64-intl.exe) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-tui-installer-windows-arm64-intl.exe) |
+| macOS | Desktop app | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-amd64-intl) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-arm64-intl) |
+| macOS | CLI/TUI tarball | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-darwin-amd64-2.1.33-intl.tar.gz) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-darwin-arm64-2.1.33-intl.tar.gz) |
+| Linux | Desktop app | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-linux-amd64-intl) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-linux-arm64-intl) |
+| Linux | CLI/TUI/Factory tarball | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-amd64-2.1.33-intl.tar.gz) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-arm64-2.1.33-intl.tar.gz) |
+| VS Code | Extension | [VSIX](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-vscode-intl.vsix) |
+| All | Integrity | [SHA256SUMS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/SHA256SUMS) |
+
+Installation, upgrade, PATH, Gatekeeper and SmartScreen notes are in
+[INSTALL.md](INSTALL.md); the full asset list is at the bottom of this page.
 
 ---
 
@@ -405,6 +427,9 @@ and `DISCLAIMER.md` carry the full notice.
 
 ---
 
+<details>
+<summary><strong>中文 / Chinese — 点击展开 / click to expand</strong></summary>
+
 ## 中文
 
 Aruhan 是本地优先的 AI 工程工作台：同一套引擎驱动 CLI、终端 TUI、桌面端、
@@ -705,3 +730,5 @@ TaskLedger 不再报“当前会话不在项目内”。本版同时让运行时
 - 替换 CLI/TUI/Desktop 二进制并重新安装 VSIX。
 - 重启旧版本启动的 daemon。
 - 无需手工配置或数据迁移；首次启动会自动接管旧安装器数据。
+
+</details>
