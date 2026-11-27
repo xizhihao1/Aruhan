@@ -23,7 +23,7 @@ set -euo pipefail
 # --- 可配置常量 ---
 OWNER="xizhihao1"
 REPO="Aruhan"
-DEFAULT_VERSION="v2.1.28"
+DEFAULT_VERSION="v2.1.33"
 # GitHub release 下载基础 URL (若 GitHub 实际 URL 格式不同, 改这里)
 BASE_URL="https://github.com/${OWNER}/${REPO}/releases/download"
 
@@ -94,6 +94,8 @@ INSTALL_DIR="${PREFIX}/bin"
 BIN_NAME="aruhan"
 
 # --- 下载 ---
+# 发布资产按发行版加后缀（不带后缀的 URL 实测 404）；后缀须与
+# stage-edition-release.mjs 生成的资产名一致。
 TARBALL="aruhan-${OS}-${ARCH}-${VER}-intl.tar.gz"
 URL="${BASE_URL}/${VERSION}/${TARBALL}"
 TMP="$(mktemp -d)"
