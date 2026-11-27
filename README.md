@@ -1,5 +1,7 @@
 # Aruhan — International edition / 国际版
 
+**⬇ [下载 / Download](https://github.com/xizhihao1/Aruhan/releases/tag/v2.1.33)**
+
 <details name="lang">
 <summary><strong>中文 / Chinese</strong></summary>
 
