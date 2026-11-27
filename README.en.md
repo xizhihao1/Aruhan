@@ -1,6 +1,30 @@
 # Aruhan — International edition / 国际版
 
 **Version v2.1.33** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
+ · 中文（文末点击展开 / collapsed at the end）
+
+**⬇ [立即下载 / Download now](https://github.com/xizhihao1/Aruhan/releases)** —
+[Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe) · [macOS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-amd64-intl) · [Linux](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-amd64-2.1.33-intl.tar.gz) ·
+[全部资产 / all assets](https://github.com/xizhihao1/Aruhan/releases)
+
+## Download / 下载
+
+| Platform | Package | Download |
+|---|---|---|
+| Windows | Bundle: CLI + desktop + Factory | [Aruhan bundle installer](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe) |
+| Windows | Separate installers | [CLI](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-CLI-Setup-2.1.33-intl.exe) · [Desktop](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Desktop-Setup-2.1.33-intl.exe) · [Factory](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Factory-Setup-2.1.33-intl.exe) |
+| Windows | Portable ZIP | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-windows-amd64-2.1.33-intl.zip) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-windows-arm64-2.1.33-intl.zip) |
+| Windows arm64 | TUI installer | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-tui-installer-windows-amd64-intl.exe) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-tui-installer-windows-arm64-intl.exe) |
+| macOS | Desktop app | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-amd64-intl) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-arm64-intl) |
+| macOS | CLI/TUI tarball | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-darwin-amd64-2.1.33-intl.tar.gz) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-darwin-arm64-2.1.33-intl.tar.gz) |
+| Linux | Desktop app | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-linux-amd64-intl) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-linux-arm64-intl) |
+| Linux | CLI/TUI/Factory tarball | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-amd64-2.1.33-intl.tar.gz) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-arm64-2.1.33-intl.tar.gz) |
+| VS Code | Extension | [VSIX](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-vscode-intl.vsix) |
+| All | Integrity | [SHA256SUMS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/SHA256SUMS) |
+
+Install, upgrade, PATH, Gatekeeper and SmartScreen notes are in
+[INSTALL.md](INSTALL.md); the full asset list is at the bottom of this page.
+
 
 **Your codebase. Your machine. Your models. An AI engineer that actually runs
 the loop.**
