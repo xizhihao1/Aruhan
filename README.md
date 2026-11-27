@@ -2,10 +2,6 @@
 
 **Version v2.1.33** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
 
-> **First international release.** This is the first public build of the
-> International edition. Feedback, bug reports, and provider requests are
-> especially welcome.
-
 **Your codebase. Your machine. Your models. An AI engineer that actually runs
 the loop.**
 
