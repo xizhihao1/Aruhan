@@ -1,11 +1,9 @@
 # Aruhan — International edition / 国际版
 
 **Version v2.1.33** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
- · 中文（文末点击展开 / collapsed at the end）
 
-**⬇ [立即下载 / Download now](https://github.com/xizhihao1/Aruhan/releases)** —
-[Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe) · [macOS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-amd64-intl) · [Linux](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-amd64-2.1.33-intl.tar.gz) ·
-[全部资产 / all assets](https://github.com/xizhihao1/Aruhan/releases)
+**⬇ [Download Aruhan 2.1.33 for Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe)** —
+[macOS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-desktop-darwin-amd64-intl) · [Linux](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/aruhan-linux-amd64-2.1.33-intl.tar.gz) · all platforms below
 
 ## Download / 下载
 
@@ -383,4 +381,3 @@ not legal advice; obtain local counsel for your jurisdiction.
 | [DISCLAIMER.md](DISCLAIMER.md) | Warranty, liability, acceptable use, and high-risk limits |
 | [RELEASE_NOTES.md](RELEASE_NOTES.md) | What changed in this version |
 | **SHA256SUMS** | Checksums for every distributed file |
-
