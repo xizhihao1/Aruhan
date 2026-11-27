@@ -1,5 +1,8 @@
 # Aruhan — International edition / 国际版
 
+**⬇ [下载 / Download](https://github.com/xizhihao1/Aruhan/releases/tag/v2.1.33)**
+
+
 **Version v2.1.33** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
 
 **⬇ [Download Aruhan 2.1.33 for Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.33/Aruhan-Setup-2.1.33-intl.exe)** —
