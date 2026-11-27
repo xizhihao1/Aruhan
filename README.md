@@ -1,6 +1,6 @@
 # Aruhan — International edition / 国际版
 
-**Version v2.1.32** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
+**Version v2.1.33** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
 
 > **First international release.** This is the first public build of the
 > International edition. Feedback, bug reports, and provider requests are
@@ -177,11 +177,11 @@ provider fallback.
 
 | You want | Download |
 |---|---|
-| Windows, everything (recommended) | **Aruhan-Setup-2.1.32-intl.exe** |
-| Windows CLI only | **Aruhan-CLI-Setup-2.1.32-intl.exe** |
-| Windows desktop only | **Aruhan-Desktop-Setup-2.1.32-intl.exe** |
-| Windows Factory | **Factory-Setup-2.1.32-intl.exe** |
-| Windows portable | the matching **aruhan-windows-*-2.1.32-intl.zip** |
+| Windows, everything (recommended) | **Aruhan-Setup-2.1.33-intl.exe** |
+| Windows CLI only | **Aruhan-CLI-Setup-2.1.33-intl.exe** |
+| Windows desktop only | **Aruhan-Desktop-Setup-2.1.33-intl.exe** |
+| Windows Factory | **Factory-Setup-2.1.33-intl.exe** |
+| Windows portable | the matching **aruhan-windows-*-2.1.33-intl.zip** |
 | Linux CLI / Factory | **aruhan-linux-*.tar.gz**, **factory-linux-*.tar.gz** |
 | macOS CLI / Factory | **aruhan-darwin-*.tar.gz**, **factory-darwin-*.tar.gz** |
 | Linux / macOS desktop | the matching **aruhan-desktop-*-intl** binary |
@@ -324,33 +324,33 @@ not legal advice; obtain local counsel for your jurisdiction.
 <details>
 <summary><strong>Show all 27 assets</strong></summary>
 
-- **darwin/aruhan-darwin-amd64-2.1.32-intl.tar.gz** — 43,151,094 bytes
-- **darwin/aruhan-darwin-arm64-2.1.32-intl.tar.gz** — 40,844,132 bytes
-- **darwin/factory-darwin-amd64-2.1.32-intl.tar.gz** — 44,966,774 bytes
-- **darwin/factory-darwin-arm64-2.1.32-intl.tar.gz** — 42,396,256 bytes
-- **linux/aruhan-linux-amd64-2.1.32-intl.tar.gz** — 42,488,170 bytes
-- **linux/aruhan-linux-arm64-2.1.32-intl.tar.gz** — 39,369,236 bytes
-- **linux/factory-linux-amd64-2.1.32-intl.tar.gz** — 44,288,652 bytes
-- **linux/factory-linux-arm64-2.1.32-intl.tar.gz** — 40,914,059 bytes
-- **vscode/aruhan-vscode-intl.vsix** — 88,052,569 bytes
-- **windows/Aruhan-CLI-Setup-2.1.32-intl.exe** — 21,849,478 bytes
-- **windows/aruhan-desktop-arm64-intl.exe** — 38,303,232 bytes
-- **windows/aruhan-desktop-intl.exe** — 44,046,336 bytes
-- **windows/Aruhan-Desktop-Setup-2.1.32-intl.exe** — 33,464,787 bytes
-- **windows/aruhan-desktop-windows-amd64-2.1.32-intl.zip** — 15,546,390 bytes
-- **windows/aruhan-desktop-windows-arm64-2.1.32-intl.zip** — 13,071,828 bytes
-- **windows/aruhan-intl.exe** — 72,711,168 bytes
-- **windows/Aruhan-Setup-2.1.32-intl.exe** — 33,476,443 bytes
-- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,290,560 bytes
-- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,349,248 bytes
-- **windows/aruhan-windows-amd64-2.1.32-intl.zip** — 28,984,132 bytes
-- **windows/aruhan-windows-amd64-intl.exe** — 72,711,168 bytes
-- **windows/aruhan-windows-arm64-2.1.32-intl.zip** — 26,716,133 bytes
-- **windows/aruhan-windows-arm64-intl.exe** — 67,968,000 bytes
-- **windows/factory-intl.exe** — 40,834,560 bytes
-- **windows/Factory-Setup-2.1.32-intl.exe** — 34,000,874 bytes
-- **windows/factory-windows-amd64-intl.exe** — 40,834,560 bytes
-- **windows/factory-windows-arm64-intl.exe** — 37,615,616 bytes
+- **darwin/aruhan-darwin-amd64-2.1.33-intl.tar.gz** — 43,368,447 bytes
+- **darwin/aruhan-darwin-arm64-2.1.33-intl.tar.gz** — 41,035,806 bytes
+- **darwin/factory-darwin-amd64-2.1.33-intl.tar.gz** — 45,352,455 bytes
+- **darwin/factory-darwin-arm64-2.1.33-intl.tar.gz** — 42,734,427 bytes
+- **linux/aruhan-linux-amd64-2.1.33-intl.tar.gz** — 42,702,978 bytes
+- **linux/aruhan-linux-arm64-2.1.33-intl.tar.gz** — 39,554,002 bytes
+- **linux/factory-linux-amd64-2.1.33-intl.tar.gz** — 44,661,630 bytes
+- **linux/factory-linux-arm64-2.1.33-intl.tar.gz** — 41,233,995 bytes
+- **vscode/aruhan-vscode-intl.vsix** — 88,547,523 bytes
+- **windows/Aruhan-CLI-Setup-2.1.33-intl.exe** — 21,960,540 bytes
+- **windows/aruhan-desktop-arm64-intl.exe** — 38,389,248 bytes
+- **windows/aruhan-desktop-intl.exe** — 44,144,128 bytes
+- **windows/Aruhan-Desktop-Setup-2.1.33-intl.exe** — 33,627,904 bytes
+- **windows/aruhan-desktop-windows-amd64-2.1.33-intl.zip** — 15,600,357 bytes
+- **windows/aruhan-desktop-windows-arm64-2.1.33-intl.zip** — 13,114,204 bytes
+- **windows/aruhan-intl.exe** — 73,063,936 bytes
+- **windows/Aruhan-Setup-2.1.33-intl.exe** — 33,623,642 bytes
+- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,622,848 bytes
+- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,642,112 bytes
+- **windows/aruhan-windows-amd64-2.1.33-intl.zip** — 29,137,897 bytes
+- **windows/aruhan-windows-amd64-intl.exe** — 73,063,936 bytes
+- **windows/aruhan-windows-arm64-2.1.33-intl.zip** — 26,854,733 bytes
+- **windows/aruhan-windows-arm64-intl.exe** — 68,280,832 bytes
+- **windows/factory-intl.exe** — 41,387,008 bytes
+- **windows/Factory-Setup-2.1.33-intl.exe** — 34,270,489 bytes
+- **windows/factory-windows-amd64-intl.exe** — 41,387,008 bytes
+- **windows/factory-windows-arm64-intl.exe** — 38,090,752 bytes
 
 </details>
 
@@ -370,7 +370,7 @@ not legal advice; obtain local counsel for your jurisdiction.
 
 # Aruhan — 国际版
 
-**版本 v2.1.32** · **国际版** · [下载](https://github.com/xizhihao1/Aruhan/releases) · [安装](INSTALL.md) · [许可证](LICENSE.zh-CN.md) · [免责声明](DISCLAIMER.md)
+**版本 v2.1.33** · **国际版** · [下载](https://github.com/xizhihao1/Aruhan/releases) · [安装](INSTALL.md) · [许可证](LICENSE.zh-CN.md) · [免责声明](DISCLAIMER.md)
 
 > **国际版首次发布。** 这是国际版的第一个公开构建，尤其欢迎反馈问题、
 > 提交缺陷和提出供应商接入需求。
@@ -515,11 +515,11 @@ Factory 是面向"必须可重复"的工作的控制面。Pack 定义交付过�
 
 | 你需要 | 下载 |
 |---|---|
-| Windows 全量安装（推荐） | **Aruhan-Setup-2.1.32-intl.exe** |
-| 仅 Windows CLI | **Aruhan-CLI-Setup-2.1.32-intl.exe** |
-| 仅 Windows 桌面端 | **Aruhan-Desktop-Setup-2.1.32-intl.exe** |
-| Windows Factory | **Factory-Setup-2.1.32-intl.exe** |
-| Windows 便携版 | 对应的 **aruhan-windows-*-2.1.32-intl.zip** |
+| Windows 全量安装（推荐） | **Aruhan-Setup-2.1.33-intl.exe** |
+| 仅 Windows CLI | **Aruhan-CLI-Setup-2.1.33-intl.exe** |
+| 仅 Windows 桌面端 | **Aruhan-Desktop-Setup-2.1.33-intl.exe** |
+| Windows Factory | **Factory-Setup-2.1.33-intl.exe** |
+| Windows 便携版 | 对应的 **aruhan-windows-*-2.1.33-intl.zip** |
 | Linux CLI / Factory | **aruhan-linux-*.tar.gz**、**factory-linux-*.tar.gz** |
 | macOS CLI / Factory | **aruhan-darwin-*.tar.gz**、**factory-darwin-*.tar.gz** |
 | Linux / macOS 桌面端 | 对应的 **aruhan-desktop-*-intl** 二进制 |
@@ -639,33 +639,33 @@ Aruhan 会执行模型请求的工具，可能修改文件、运行命令、调�
 <details>
 <summary><strong>展开全部 27 个资产</strong></summary>
 
-- **darwin/aruhan-darwin-amd64-2.1.32-intl.tar.gz** — 43,151,094 bytes
-- **darwin/aruhan-darwin-arm64-2.1.32-intl.tar.gz** — 40,844,132 bytes
-- **darwin/factory-darwin-amd64-2.1.32-intl.tar.gz** — 44,966,774 bytes
-- **darwin/factory-darwin-arm64-2.1.32-intl.tar.gz** — 42,396,256 bytes
-- **linux/aruhan-linux-amd64-2.1.32-intl.tar.gz** — 42,488,170 bytes
-- **linux/aruhan-linux-arm64-2.1.32-intl.tar.gz** — 39,369,236 bytes
-- **linux/factory-linux-amd64-2.1.32-intl.tar.gz** — 44,288,652 bytes
-- **linux/factory-linux-arm64-2.1.32-intl.tar.gz** — 40,914,059 bytes
-- **vscode/aruhan-vscode-intl.vsix** — 88,052,569 bytes
-- **windows/Aruhan-CLI-Setup-2.1.32-intl.exe** — 21,849,478 bytes
-- **windows/aruhan-desktop-arm64-intl.exe** — 38,303,232 bytes
-- **windows/aruhan-desktop-intl.exe** — 44,046,336 bytes
-- **windows/Aruhan-Desktop-Setup-2.1.32-intl.exe** — 33,464,787 bytes
-- **windows/aruhan-desktop-windows-amd64-2.1.32-intl.zip** — 15,546,390 bytes
-- **windows/aruhan-desktop-windows-arm64-2.1.32-intl.zip** — 13,071,828 bytes
-- **windows/aruhan-intl.exe** — 72,711,168 bytes
-- **windows/Aruhan-Setup-2.1.32-intl.exe** — 33,476,443 bytes
-- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,290,560 bytes
-- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,349,248 bytes
-- **windows/aruhan-windows-amd64-2.1.32-intl.zip** — 28,984,132 bytes
-- **windows/aruhan-windows-amd64-intl.exe** — 72,711,168 bytes
-- **windows/aruhan-windows-arm64-2.1.32-intl.zip** — 26,716,133 bytes
-- **windows/aruhan-windows-arm64-intl.exe** — 67,968,000 bytes
-- **windows/factory-intl.exe** — 40,834,560 bytes
-- **windows/Factory-Setup-2.1.32-intl.exe** — 34,000,874 bytes
-- **windows/factory-windows-amd64-intl.exe** — 40,834,560 bytes
-- **windows/factory-windows-arm64-intl.exe** — 37,615,616 bytes
+- **darwin/aruhan-darwin-amd64-2.1.33-intl.tar.gz** — 43,368,447 bytes
+- **darwin/aruhan-darwin-arm64-2.1.33-intl.tar.gz** — 41,035,806 bytes
+- **darwin/factory-darwin-amd64-2.1.33-intl.tar.gz** — 45,352,455 bytes
+- **darwin/factory-darwin-arm64-2.1.33-intl.tar.gz** — 42,734,427 bytes
+- **linux/aruhan-linux-amd64-2.1.33-intl.tar.gz** — 42,702,978 bytes
+- **linux/aruhan-linux-arm64-2.1.33-intl.tar.gz** — 39,554,002 bytes
+- **linux/factory-linux-amd64-2.1.33-intl.tar.gz** — 44,661,630 bytes
+- **linux/factory-linux-arm64-2.1.33-intl.tar.gz** — 41,233,995 bytes
+- **vscode/aruhan-vscode-intl.vsix** — 88,547,523 bytes
+- **windows/Aruhan-CLI-Setup-2.1.33-intl.exe** — 21,960,540 bytes
+- **windows/aruhan-desktop-arm64-intl.exe** — 38,389,248 bytes
+- **windows/aruhan-desktop-intl.exe** — 44,144,128 bytes
+- **windows/Aruhan-Desktop-Setup-2.1.33-intl.exe** — 33,627,904 bytes
+- **windows/aruhan-desktop-windows-amd64-2.1.33-intl.zip** — 15,600,357 bytes
+- **windows/aruhan-desktop-windows-arm64-2.1.33-intl.zip** — 13,114,204 bytes
+- **windows/aruhan-intl.exe** — 73,063,936 bytes
+- **windows/Aruhan-Setup-2.1.33-intl.exe** — 33,623,642 bytes
+- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,622,848 bytes
+- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,642,112 bytes
+- **windows/aruhan-windows-amd64-2.1.33-intl.zip** — 29,137,897 bytes
+- **windows/aruhan-windows-amd64-intl.exe** — 73,063,936 bytes
+- **windows/aruhan-windows-arm64-2.1.33-intl.zip** — 26,854,733 bytes
+- **windows/aruhan-windows-arm64-intl.exe** — 68,280,832 bytes
+- **windows/factory-intl.exe** — 41,387,008 bytes
+- **windows/Factory-Setup-2.1.33-intl.exe** — 34,270,489 bytes
+- **windows/factory-windows-amd64-intl.exe** — 41,387,008 bytes
+- **windows/factory-windows-arm64-intl.exe** — 38,090,752 bytes
 
 </details>
 
