@@ -36,7 +36,7 @@ param(
 # --- 可配置常量 ---
 $Owner   = "xizhihao1"
 $Repo    = "Aruhan"
-$DefaultVersion = "v2.1.33"
+$DefaultVersion = "v2.1.35"
 $BaseUrl = "https://github.com/$Owner/$Repo/releases/download"
 
 # --- 颜色输出辅助 ---
