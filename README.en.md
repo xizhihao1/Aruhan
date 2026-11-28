@@ -7,18 +7,18 @@
 
 ## Download / 下载
 
-| Platform | Package | Download |
-|---|---|---|
-| Windows | Bundle: CLI + desktop + Factory | [Aruhan bundle installer](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Setup-2.1.34-intl.exe) |
-| Windows | Separate installers | [CLI](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-CLI-Setup-2.1.34-intl.exe) · [Desktop](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Desktop-Setup-2.1.34-intl.exe) · [Factory](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Factory-Setup-2.1.34-intl.exe) |
-| Windows | Portable ZIP | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-windows-amd64-2.1.34-intl.zip) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-windows-arm64-2.1.34-intl.zip) |
-| Windows arm64 | TUI installer | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-tui-installer-windows-amd64-intl.exe) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-tui-installer-windows-arm64-intl.exe) |
-| macOS | Desktop app | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-amd64-intl) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-arm64-intl) |
-| macOS | CLI/TUI tarball | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-darwin-amd64-2.1.34-intl.tar.gz) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-darwin-arm64-2.1.34-intl.tar.gz) |
-| Linux | Desktop app | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-linux-amd64-intl) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-linux-arm64-intl) |
-| Linux | CLI/TUI/Factory tarball | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-amd64-2.1.34-intl.tar.gz) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-arm64-2.1.34-intl.tar.gz) |
-| VS Code | Extension | [VSIX](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-vscode-intl.vsix) |
-| All | Integrity | [SHA256SUMS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/SHA256SUMS) |
+| Platform | Package | What it is | Download |
+|---|---|---|---|
+| Windows | Bundle: CLI + desktop + Factory | Single installer for CLI, desktop app and Factory. | [Aruhan bundle installer](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Setup-2.1.34-intl.exe) |
+| Windows | Separate installers | Install only the surface you need. | [CLI](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-CLI-Setup-2.1.34-intl.exe) · [Desktop](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Desktop-Setup-2.1.34-intl.exe) · [Factory](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Factory-Setup-2.1.34-intl.exe) |
+| Windows | Portable ZIP | No-install ZIP; unpack and run. | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-windows-amd64-2.1.34-intl.zip) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-windows-arm64-2.1.34-intl.zip) |
+| Windows arm64 | TUI installer | Terminal UI installer for Windows on ARM. | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-tui-installer-windows-amd64-intl.exe) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-tui-installer-windows-arm64-intl.exe) |
+| macOS | Desktop app | Native app; headless builds serve the UI in a browser. | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-amd64-intl) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-arm64-intl) |
+| macOS | CLI/TUI tarball | CLI and TUI in a .tar.gz archive. | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-darwin-amd64-2.1.34-intl.tar.gz) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-darwin-arm64-2.1.34-intl.tar.gz) |
+| Linux | Desktop app | Native app; headless builds serve the UI in a browser. | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-linux-amd64-intl) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-linux-arm64-intl) |
+| Linux | CLI/TUI/Factory tarball | CLI, TUI and Factory in a .tar.gz archive. | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-amd64-2.1.34-intl.tar.gz) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-arm64-2.1.34-intl.tar.gz) |
+| VS Code | Extension | Install from the VS Code Extensions view. | [VSIX](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-vscode-intl.vsix) |
+| All | Integrity | Checksums for every distributed file. | [SHA256SUMS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/SHA256SUMS) |
 
 Install, upgrade, PATH, Gatekeeper and SmartScreen notes are in
 [INSTALL.md](INSTALL.md); the full asset list is at the bottom of this page.
