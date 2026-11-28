@@ -23,7 +23,7 @@ set -euo pipefail
 # --- 可配置常量 ---
 OWNER="xizhihao1"
 REPO="Aruhan"
-DEFAULT_VERSION="v2.1.33"
+DEFAULT_VERSION="v2.1.35"
 # GitHub release 下载基础 URL (若 GitHub 实际 URL 格式不同, 改这里)
 BASE_URL="https://github.com/${OWNER}/${REPO}/releases/download"
 
