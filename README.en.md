@@ -1,24 +1,24 @@
 # Aruhan — International edition / 国际版
 
-**Version v2.1.34** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
+**Version v2.1.35** · **International edition** · [Download](https://github.com/xizhihao1/Aruhan/releases) · [Install](INSTALL.md) · [License](LICENSE) · [Disclaimer](DISCLAIMER.md)
 
-**⬇ [Download Aruhan 2.1.34 for Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Setup-2.1.34-intl.exe)** —
-[macOS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-amd64-intl) · [Linux](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-amd64-2.1.34-intl.tar.gz) · all platforms below
+**⬇ [Download Aruhan 2.1.35 for Windows](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/Aruhan-Setup-2.1.35-intl.exe)** —
+[macOS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-desktop-darwin-amd64-intl) · [Linux](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-linux-amd64-2.1.35-intl.tar.gz) · all platforms below
 
 ## Download / 下载
 
 | Platform | Package | What it is | Download |
 |---|---|---|---|
-| Windows | Bundle: CLI + desktop + Factory | Single installer for CLI, desktop app and Factory. | [Aruhan bundle installer](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Setup-2.1.34-intl.exe) |
-| Windows | Separate installers | Install only the surface you need. | [CLI](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-CLI-Setup-2.1.34-intl.exe) · [Desktop](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Aruhan-Desktop-Setup-2.1.34-intl.exe) · [Factory](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/Factory-Setup-2.1.34-intl.exe) |
-| Windows | Portable ZIP | No-install ZIP; unpack and run. | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-windows-amd64-2.1.34-intl.zip) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-windows-arm64-2.1.34-intl.zip) |
-| Windows arm64 | TUI installer | Terminal UI installer for Windows on ARM. | [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-tui-installer-windows-amd64-intl.exe) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-tui-installer-windows-arm64-intl.exe) |
-| macOS | Desktop app | Native app; headless builds serve the UI in a browser. | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-amd64-intl) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-darwin-arm64-intl) |
-| macOS | CLI/TUI tarball | CLI and TUI in a .tar.gz archive. | [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-darwin-amd64-2.1.34-intl.tar.gz) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-darwin-arm64-2.1.34-intl.tar.gz) |
-| Linux | Desktop app | Native app; headless builds serve the UI in a browser. | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-linux-amd64-intl) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-desktop-linux-arm64-intl) |
-| Linux | CLI/TUI/Factory tarball | CLI, TUI and Factory in a .tar.gz archive. | [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-amd64-2.1.34-intl.tar.gz) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-linux-arm64-2.1.34-intl.tar.gz) |
-| VS Code | Extension | Install from the VS Code Extensions view. | [VSIX](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/aruhan-vscode-intl.vsix) |
-| All | Integrity | Checksums for every distributed file. | [SHA256SUMS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.34/SHA256SUMS) |
+| Windows | Bundle: CLI + desktop + Factory |Single installer for CLI, desktop app and Factory. |  [Aruhan bundle installer](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/Aruhan-Setup-2.1.35-intl.exe) |
+| Windows | Separate installers |Install only the surface you need. |  [CLI](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/Aruhan-CLI-Setup-2.1.35-intl.exe) · [Desktop](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/Aruhan-Desktop-Setup-2.1.35-intl.exe) · [Factory](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/Factory-Setup-2.1.35-intl.exe) |
+| Windows | Portable ZIP |No-install ZIP; unpack and run. |  [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-windows-amd64-2.1.35-intl.zip) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-windows-arm64-2.1.35-intl.zip) |
+| Windows arm64 | TUI installer |Terminal UI installer for Windows on ARM. |  [amd64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-tui-installer-windows-amd64-intl.exe) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-tui-installer-windows-arm64-intl.exe) |
+| macOS | Desktop app |Native app; headless builds serve the UI in a browser. |  [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-desktop-darwin-amd64-intl) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-desktop-darwin-arm64-intl) |
+| macOS | CLI/TUI tarball |CLI and TUI in a .tar.gz archive. |  [Intel](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-darwin-amd64-2.1.35-intl.tar.gz) · [Apple Silicon](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-darwin-arm64-2.1.35-intl.tar.gz) |
+| Linux | Desktop app |Headless binary; opens a local browser UI. |  [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-desktop-linux-amd64-intl) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-desktop-linux-arm64-intl) |
+| Linux | CLI/TUI/Factory tarball |CLI, TUI and Factory in a .tar.gz archive. |  [x64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-linux-amd64-2.1.35-intl.tar.gz) · [arm64](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-linux-arm64-2.1.35-intl.tar.gz) |
+| VS Code | Extension |Install from the VS Code Extensions view. |  [VSIX](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/aruhan-vscode-intl.vsix) |
+| All | Integrity |Checksums for every distributed file. |  [SHA256SUMS](https://github.com/xizhihao1/Aruhan/releases/download/v2.1.35/SHA256SUMS) |
 
 Install, upgrade, PATH, Gatekeeper and SmartScreen notes are in
 [INSTALL.md](INSTALL.md); the full asset list is at the bottom of this page.
@@ -195,11 +195,11 @@ provider fallback.
 
 | You want | Download |
 |---|---|
-| Windows, everything (recommended) | **Aruhan-Setup-2.1.34-intl.exe** |
-| Windows CLI only | **Aruhan-CLI-Setup-2.1.34-intl.exe** |
-| Windows desktop only | **Aruhan-Desktop-Setup-2.1.34-intl.exe** |
-| Windows Factory | **Factory-Setup-2.1.34-intl.exe** |
-| Windows portable | the matching **aruhan-windows-*-2.1.34-intl.zip** |
+| Windows, everything (recommended) | **Aruhan-Setup-2.1.35-intl.exe** |
+| Windows CLI only | **Aruhan-CLI-Setup-2.1.35-intl.exe** |
+| Windows desktop only | **Aruhan-Desktop-Setup-2.1.35-intl.exe** |
+| Windows Factory | **Factory-Setup-2.1.35-intl.exe** |
+| Windows portable | the matching **aruhan-windows-*-2.1.35-intl.zip** |
 | Linux CLI / Factory | **aruhan-linux-*.tar.gz**, **factory-linux-*.tar.gz** |
 | macOS CLI / Factory | **aruhan-darwin-*.tar.gz**, **factory-darwin-*.tar.gz** |
 | Linux / macOS desktop | the matching **aruhan-desktop-*-intl** binary |
@@ -342,33 +342,33 @@ not legal advice; obtain local counsel for your jurisdiction.
 <details>
 <summary><strong>Show all 27 assets</strong></summary>
 
-- **darwin/aruhan-darwin-amd64-2.1.34-intl.tar.gz** — 43,375,969 bytes
-- **darwin/aruhan-darwin-arm64-2.1.34-intl.tar.gz** — 41,043,366 bytes
-- **darwin/factory-darwin-amd64-2.1.34-intl.tar.gz** — 45,352,461 bytes
-- **darwin/factory-darwin-arm64-2.1.34-intl.tar.gz** — 42,738,444 bytes
-- **linux/aruhan-linux-amd64-2.1.34-intl.tar.gz** — 42,707,810 bytes
-- **linux/aruhan-linux-arm64-2.1.34-intl.tar.gz** — 39,560,465 bytes
-- **linux/factory-linux-amd64-2.1.34-intl.tar.gz** — 44,663,228 bytes
-- **linux/factory-linux-arm64-2.1.34-intl.tar.gz** — 41,233,106 bytes
-- **vscode/aruhan-vscode-intl.vsix** — 88,548,142 bytes
-- **windows/Aruhan-CLI-Setup-2.1.34-intl.exe** — 21,964,225 bytes
-- **windows/aruhan-desktop-arm64-intl.exe** — 38,400,512 bytes
-- **windows/aruhan-desktop-intl.exe** — 44,158,976 bytes
-- **windows/Aruhan-Desktop-Setup-2.1.34-intl.exe** — 33,609,009 bytes
-- **windows/aruhan-desktop-windows-amd64-2.1.34-intl.zip** — 15,608,012 bytes
-- **windows/aruhan-desktop-windows-arm64-2.1.34-intl.zip** — 13,121,753 bytes
-- **windows/aruhan-intl.exe** — 73,054,720 bytes
-- **windows/Aruhan-Setup-2.1.34-intl.exe** — 33,628,600 bytes
-- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,613,632 bytes
-- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,632,384 bytes
-- **windows/aruhan-windows-amd64-2.1.34-intl.zip** — 29,137,281 bytes
-- **windows/aruhan-windows-amd64-intl.exe** — 73,054,720 bytes
-- **windows/aruhan-windows-arm64-2.1.34-intl.zip** — 26,854,953 bytes
-- **windows/aruhan-windows-arm64-intl.exe** — 68,271,104 bytes
-- **windows/factory-intl.exe** — 41,380,352 bytes
-- **windows/Factory-Setup-2.1.34-intl.exe** — 34,271,709 bytes
-- **windows/factory-windows-amd64-intl.exe** — 41,380,352 bytes
-- **windows/factory-windows-arm64-intl.exe** — 38,084,096 bytes
+- **darwin/aruhan-darwin-amd64-2.1.35-intl.tar.gz** — 43,418,901 bytes
+- **darwin/aruhan-darwin-arm64-2.1.35-intl.tar.gz** — 41,085,367 bytes
+- **darwin/factory-darwin-amd64-2.1.35-intl.tar.gz** — 45,395,107 bytes
+- **darwin/factory-darwin-arm64-2.1.35-intl.tar.gz** — 42,780,317 bytes
+- **linux/aruhan-linux-amd64-2.1.35-intl.tar.gz** — 42,751,677 bytes
+- **linux/aruhan-linux-arm64-2.1.35-intl.tar.gz** — 39,599,400 bytes
+- **linux/factory-linux-amd64-2.1.35-intl.tar.gz** — 44,703,812 bytes
+- **linux/factory-linux-arm64-2.1.35-intl.tar.gz** — 41,270,713 bytes
+- **vscode/aruhan-vscode-intl.vsix** — 88,679,283 bytes
+- **windows/Aruhan-CLI-Setup-2.1.35-intl.exe** — 21,988,708 bytes
+- **windows/aruhan-desktop-arm64-intl.exe** — 38,402,048 bytes
+- **windows/aruhan-desktop-intl.exe** — 44,160,512 bytes
+- **windows/Aruhan-Desktop-Setup-2.1.35-intl.exe** — 33,653,552 bytes
+- **windows/aruhan-desktop-windows-amd64-2.1.35-intl.zip** — 15,608,032 bytes
+- **windows/aruhan-desktop-windows-arm64-2.1.35-intl.zip** — 13,122,446 bytes
+- **windows/aruhan-intl.exe** — 73,171,968 bytes
+- **windows/Aruhan-Setup-2.1.35-intl.exe** — 33,661,090 bytes
+- **windows/aruhan-tui-installer-windows-amd64-intl.exe** — 76,730,880 bytes
+- **windows/aruhan-tui-installer-windows-arm64-intl.exe** — 71,738,368 bytes
+- **windows/aruhan-windows-amd64-2.1.35-intl.zip** — 29,180,593 bytes
+- **windows/aruhan-windows-amd64-intl.exe** — 73,171,968 bytes
+- **windows/aruhan-windows-arm64-2.1.35-intl.zip** — 26,894,088 bytes
+- **windows/aruhan-windows-arm64-intl.exe** — 68,377,088 bytes
+- **windows/factory-intl.exe** — 41,382,912 bytes
+- **windows/Factory-Setup-2.1.35-intl.exe** — 34,304,558 bytes
+- **windows/factory-windows-amd64-intl.exe** — 41,382,912 bytes
+- **windows/factory-windows-arm64-intl.exe** — 38,086,656 bytes
 
 </details>
 
